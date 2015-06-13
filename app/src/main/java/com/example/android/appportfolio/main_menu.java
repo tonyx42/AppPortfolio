@@ -12,18 +12,18 @@ import android.widget.Toast;
 
 public class main_menu extends Activity {
 
-    private Button app1, app2, app3, app4, app5, app6;
+    //private Button app1, app2, app3, app4, app5, app6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_menu);
-        app1 = (Button) findViewById(R.id.app1);
+        /*app1 = (Button) findViewById(R.id.app1);
         app2 = (Button) findViewById(R.id.app2);
         app3 = (Button) findViewById(R.id.app3);
         app4 = (Button) findViewById(R.id.app4);
         app5 = (Button) findViewById(R.id.app5);
-        app6 = (Button) findViewById(R.id.app6);
+        app6 = (Button) findViewById(R.id.app6);*/
 
     }
 
